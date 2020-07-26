@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Developed an e-commerce website using Ruby on Rails Freamework.The application contains two views, one for the shopper and another for the Admin.
+ 
+The functionlaities are as follows:
+    For Admin:
+      1.	Login page with for with Authentication.
+      2.	View the orders placed
+      3.	CRUD operation on Products and Users.
+    For Users
+      1.	Shopping page
+      2.	Cart page
+      3.	Order Page with validations.
